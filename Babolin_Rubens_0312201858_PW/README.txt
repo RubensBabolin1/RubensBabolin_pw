@@ -19,7 +19,7 @@ Contenuto:
 
 ---
 
- EXPORTDB
+FILE CHE INISIANO VW_
 In questa cartella sono presenti gli export generati a partire dalle viste create nel database.  
 Gli export possono essere utilizzati per consultazione, verifica dei dati e supporto alla produzione dei profili richiesti.
 
